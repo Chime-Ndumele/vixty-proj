@@ -1,0 +1,106 @@
+.carousel-con1{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(153, 151, 151);
+}
+.dex{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.hi{
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+
+}
+.pop-pro{
+    height: 150px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.pop-pro2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 13px;
+    width: 45%;
+    margin-top: -70px;
+}
+.pop-pro2 > h6{
+    color: rgb(153, 151, 151);
+}
+.nav--2 {
+    height: 70px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid rgb(214, 214, 214);
+    display: flex;
+    padding: 20px 36px;
+    align-items: center;
+    margin-top: 70px;
+}
+.nav--items2{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    list-style: none;
+    gap: 70px;
+    color: #2e2e2e;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.text-link2{
+    text-decoration: none;
+    color: #2e2e2e;
+}
+.text-link2:hover{
+    text-decoration: underline;
+    color: #2e2e2e;
+    text-underline-offset: 30px;
+}
+@media only screen and (min-width: 801px){
+    .dex{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 800px) {
+     .nav--2{
+        margin-left: auto;
+        margin-right: auto;
+        height: 70px;
+        width: 100%;
+    }
+    .nav--items2{
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        list-style: none;
+        gap: 30px;
+        color: #2e2e2e;
+        cursor: pointer;
+        font-size: 12px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .pop-pro{
+        height: 150px;
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        text-align: center;
+    }
+    .pop-pro2{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        font-size: 13px;
+        width: 70%;
+        margin-top: -70px;
+    }
+}
