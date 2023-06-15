@@ -27,7 +27,7 @@ export default function Header(props){
             
             <div className="nav--items">
                 <li className={splitLocation[1] === "" ? "active" : ""}>
-                    <Link to="/" className='text-link'>HOME</Link>
+                    <Link to="/vixty-proj" className='text-link'>HOME</Link>
                 </li>
                 <li className={splitLocation[1] === "about" ? "active" : ""}>
                     <Link to='/about' className='text-link'>ABOUT</Link>
