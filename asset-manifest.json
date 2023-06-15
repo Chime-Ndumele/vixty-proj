@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vixty-proj/static/css/main.2e665fac.css",
+    "main.js": "/vixty-proj/static/js/main.96738d8f.js",
+    "static/media/vase1.png": "/vixty-proj/static/media/vase1.39b69b664602f6828dd6.png",
+    "static/media/Group2.png": "/vixty-proj/static/media/Group2.f72a33e9642ea73800be.png",
+    "static/media/vv.jpg": "/vixty-proj/static/media/vv.2713a849cda5c353a13d.jpg",
+    "static/media/kitchen2.jpg": "/vixty-proj/static/media/kitchen2.826aa3ac9a94389ee5e8.jpg",
+    "static/media/vase.jpg": "/vixty-proj/static/media/vase.ff5629d0ff4b17584387.jpg",
+    "static/media/lom.jpg": "/vixty-proj/static/media/lom.d55f7bb4c68431751a03.jpg",
+    "static/media/vase2.jpg": "/vixty-proj/static/media/vase2.167d019383ad144e91f5.jpg",
+    "static/media/ab-vase.jpeg": "/vixty-proj/static/media/ab-vase.de1019fb699f28c11d9d.jpeg",
+    "static/media/yuh.jpg": "/vixty-proj/static/media/yuh.4ac16ba344356541b4db.jpg",
+    "static/media/vase4.jpg": "/vixty-proj/static/media/vase4.b8832a72995d4bfc8e74.jpg",
+    "static/media/lamp2.jpg": "/vixty-proj/static/media/lamp2.192ce2d84df7ea1ea935.jpg",
+    "static/media/living1.jpg": "/vixty-proj/static/media/living1.a707e75fc97441aa2dfb.jpg",
+    "static/media/bed-lamp.jpg": "/vixty-proj/static/media/bed-lamp.0ef318f812eee0857be4.jpg",
+    "static/media/lamp3.jpg": "/vixty-proj/static/media/lamp3.e71a36a07fa251110f96.jpg",
+    "static/media/vase3.jpg": "/vixty-proj/static/media/vase3.38e7db37037ede34ee8c.jpg",
+    "static/media/living2.jpg": "/vixty-proj/static/media/living2.95a2052c547f13ad7100.jpg",
+    "static/media/burner.jpg": "/vixty-proj/static/media/burner.ac069789ac3e9020fa2f.jpg",
+    "index.html": "/vixty-proj/index.html",
+    "main.2e665fac.css.map": "/vixty-proj/static/css/main.2e665fac.css.map",
+    "main.96738d8f.js.map": "/vixty-proj/static/js/main.96738d8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e665fac.css",
+    "static/js/main.96738d8f.js"
+  ]
+}
