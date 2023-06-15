@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vixty-proj/static/css/main.2e665fac.css",
-    "main.js": "/vixty-proj/static/js/main.033a8020.js",
+    "main.js": "/vixty-proj/static/js/main.8ef9bea9.js",
     "static/media/vase1.png": "/vixty-proj/static/media/vase1.39b69b664602f6828dd6.png",
     "static/media/Group2.png": "/vixty-proj/static/media/Group2.f72a33e9642ea73800be.png",
     "static/media/vv.jpg": "/vixty-proj/static/media/vv.2713a849cda5c353a13d.jpg",
@@ -21,10 +21,10 @@
     "static/media/burner.jpg": "/vixty-proj/static/media/burner.ac069789ac3e9020fa2f.jpg",
     "index.html": "/vixty-proj/index.html",
     "main.2e665fac.css.map": "/vixty-proj/static/css/main.2e665fac.css.map",
-    "main.033a8020.js.map": "/vixty-proj/static/js/main.033a8020.js.map"
+    "main.8ef9bea9.js.map": "/vixty-proj/static/js/main.8ef9bea9.js.map"
   },
   "entrypoints": [
     "static/css/main.2e665fac.css",
-    "static/js/main.033a8020.js"
+    "static/js/main.8ef9bea9.js"
   ]
 }
