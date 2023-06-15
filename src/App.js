@@ -110,7 +110,7 @@ if (sideDrawerOpen) {
     <div>
       
         <Routes>
-        <Route exact path="/" element={<Home/>}/>
+        <Route exact path="/vixty-proj" element={<Home/>}/>
           <Route exact path="/about" element={<About/>}/>
           <Route exact path="/insight" element={(
             <div>
