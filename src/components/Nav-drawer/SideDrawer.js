@@ -11,7 +11,7 @@ export default function SideDrawer(props){
     return(
         <div className={drawerClasses}>
             <ul>
-                <li><Link to="/" className='text-link'>HOME</Link></li>
+                <li><Link to="/vixty-proj" className='text-link'>HOME</Link></li>
                 <li><Link to='/about' className='text-link'>ABOUT</Link></li>
                 <li><Link to='/insight' className='text-link'>INSIGHTS</Link></li>
                 <li><Link to='/contact' className='text-link'>CONTACT</Link></li>
